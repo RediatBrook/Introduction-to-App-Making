@@ -3,9 +3,9 @@ This is an open source project that aims to collect and create content for teach
 # App Inventor Curriculum
 CURRICULUM GUIDELINES
 
-                       1.) Class Problem Sets and Problem sets should be reviewed and explained
-                       2.) Properties of Components should be shown and explained in the block mode
-                       3.) At the end of each class all class problem sets should be solved and shown in the emulator mode by the instructor
+1.) Class Problem Sets and Problem sets should be reviewed and explained
+2.) Properties of Components should be shown and explained in the block mode
+3.) At the end of each class all class problem sets should be solved and shown in the emulator mode by the instructor
 
                                     MODULE 1: INTRODUCTION, SETUP AND COMPONENTS
 
