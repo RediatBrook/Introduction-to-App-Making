@@ -6,3 +6,5 @@ The project is just starting out, so any help from improving formatting to new r
 
 # Proposing changes
 Proposed changes should be clear and properly spaced.
+
+# [License]License
