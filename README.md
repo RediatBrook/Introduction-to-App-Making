@@ -163,9 +163,9 @@ The project is just starting out, so any help from improving formatting to new r
 Proposed changes should be clear and properly spaced.
 
 # License
-MIT License
+### MIT License
 
-Copyright (c) 2021 Rediat Brook Shamsu
+### Copyright (c) 2021 Rediat Brook Shamsu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -284,4 +284,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available
 at https://www.contributor-covenant.org/translations.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing rediatbrook@gmail.com. 
+### Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing rediatbrook@gmail.com. 
